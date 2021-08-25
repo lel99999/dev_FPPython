@@ -29,4 +29,6 @@ X(2,3)
 # Get the product of list w/o using numpy
 from functools import reduce
 reduce(lambda x,y:x*y,a)
+
+prod = lambda z: reduce(lambda x, y: x * y, z)
 ```
