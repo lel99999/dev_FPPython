@@ -22,3 +22,11 @@ X(2,3)
 
 ```
 [https://pypi.org/project/infix/](https://pypi.org/project/infix/) <br/>
+
+##### Using functools
+[https://docs.python.org/3/library/functools.html](https://docs.python.org/3/library/functools.html) <br/>
+```
+# Get the product of list w/o using numpy
+from functools import reduce
+reduce(lambda x,y:x*y,a)
+```
