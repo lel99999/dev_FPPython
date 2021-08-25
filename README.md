@@ -16,5 +16,9 @@ from infix import mul_infix as Infix
 Y = Infix(lambda x,y: x+y)
 2 *X* 3
 X(2,3)
+
+# Used X as an Operator or Function
+# When used as operator, need to surround X with multiplication operator, *
+
 ```
 [https://pypi.org/project/infix/](https://pypi.org/project/infix/) <br/>
