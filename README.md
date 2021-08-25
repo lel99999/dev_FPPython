@@ -17,3 +17,4 @@ Y = Infix(lambda x,y: x+y)
 2 *X* 3
 X(2,3)
 ```
+[https://pypi.org/project/infix/](https://pypi.org/project/infix/) <br/>
