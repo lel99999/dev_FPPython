@@ -1,6 +1,10 @@
 # dev_FPPython
 Functional Approach in Python
 
+##### PEP 3107 -- Function Annotations
+This PEP introduces a syntax for adding arbitrary metadata annotations to Python functions. <br/>
+[https://www.python.org/dev/peps/pep-3107/#lambda](https://www.python.org/dev/peps/pep-3107/#lambda) <br/>
+
 ##### Python doesn't allow the creation of new operators, but but one can override existing operators
 [http://blog.teamtreehouse.com/operator-overloading-python](http://blog.teamtreehouse.com/operator-overloading-python) <br/>
 
