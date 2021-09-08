@@ -36,3 +36,6 @@ reduce(lambda x,y:x*y,a)
 
 prod = lambda z: reduce(lambda x, y: x * y, z)
 ```
+#### Monads and Monoids
+[https://pypi.org/project/PyMonad/](https://pypi.org/project/PyMonad/) <br/>
+
